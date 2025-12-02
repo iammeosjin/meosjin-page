@@ -82,7 +82,7 @@ export default function Resume() {
 		{
 			company: 'HighOutput Ventures',
 			role: 'Associate Backend Engineer',
-			period: '2019 – 2021',
+			period: 'February 2019 – December 2021',
 			bullets: [
 				'Developed and maintained APIs for internal and client-facing platforms.',
 				'Improved backend reliability through code refactoring and performance fixes.',
@@ -94,7 +94,7 @@ export default function Resume() {
 		{
 			company: 'ScaleForge',
 			role: 'Senior Backend Engineer',
-			period: '2021 – 2023',
+			period: 'December 2021 – June 2023',
 			bullets: [
 				'Led backend team efforts for microservice improvements and API redesigns.',
 				'Optimized database queries and improved system performance.',
@@ -106,7 +106,7 @@ export default function Resume() {
 		{
 			company: 'ScaleForge',
 			role: 'Staff Backend Engineer',
-			period: '2023 – 2025',
+			period: 'June 2023 – October 2025',
 			bullets: [
 				'Designed scalable wallet, deposit, and withdrawal microservices.',
 				'Built analytical tools and automated financial monitoring pipelines.',
@@ -274,7 +274,7 @@ export default function Resume() {
 							{/* Notable Projects */}
 							<section>
 								<h3 className='text-sm tracking-wider font-bold text-slate-500 uppercase'>
-									Notable Projects
+									Notable Contributions
 								</h3>
 								<ul className='mt-3 space-y-3'>
 									{projects.map((p) => (
